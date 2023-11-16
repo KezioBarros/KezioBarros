@@ -3,8 +3,9 @@
 <p align="center">I ❤️ solve great challenges using tech. <br><br> Olá, eu sou Kezio, um desenvolvedor Back end com foco em C#, ASP.NET, Entity Framework, LINQ e Lambda. Minha paixão reside em criar soluções eficazes e intuitivas.</p>&nbsp;
 
 ![KezioBarros GitHub stats](https://github-readme-stats.vercel.app/api?username=KezioBarros&show_icons=true&theme=radical)
-
 [![KezioBarros](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/anuraghazra/github-readme-stats) 
+
+
  &nbsp;
  &nbsp;
 
