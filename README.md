@@ -2,10 +2,9 @@
 
 <p align="center">I ❤️ solve great challenges using tech. <br><br> Olá, eu sou Kezio, um desenvolvedor Baked com foco em C#, ASP.NET, Entity Framework, LINQ e Lambda. Minha paixão reside em criar soluções eficazes e intuitivas.</p>&nbsp;
 
-<div  align="center" style="margin-bottom:100px">
 ![KezioBarros GitHub stats](https://github-readme-stats.vercel.app/api?username=KezioBarros&show_icons=true&theme=radical)
 ![KezioBarros](https://github-readme-stats.vercel.app/api/top-langs/?username=KezioBarros&layout=compact)
- </div>
+
  
  &nbsp;
  &nbsp;
