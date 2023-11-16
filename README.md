@@ -1,11 +1,10 @@
-<img align="center" style="margin-bottom:100px" width=100% src="https://github.com/KezioBarros" />
-&nbsp;&nbsp;&nbsp;
+
 
 <p align="center">I ❤️ solve great challenges using tech. <br><br> Olá, eu sou Kezio, um desenvolvedor Baked com foco em C#, ASP.NET, Entity Framework, LINQ e Lambda. Minha paixão reside em criar soluções eficazes e intuitivas.</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
-<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=rafaelalexandrino&theme=radical&mode=weekly" />
-<img width=40% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=rafaelalexandrino&show_icons=true&theme=radical&layout=compact" />
+<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=KezioBarros&theme=radical&mode=weekly" />
+<img width=40% align="center" src="https://github-readme-stats-git-main-KezioBarros.vercel.app/api/top-langs/?username=KezioBarros&show_icons=true&theme=radical&layout=compact" />
  </div>
  
  &nbsp;
