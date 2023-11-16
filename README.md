@@ -1,4 +1,4 @@
-<img align="center" style="margin-bottom:100px" width=100% src="https://github.com/rafaelalexandrino/rafaelalexandrino/assets/97697928/9acbb44e-98f8-4f83-82f7-c19408c161cd" />
+<img align="center" style="margin-bottom:100px" width=100% src="https://github.com/KezioBarros" />
 &nbsp;&nbsp;&nbsp;
 
 <p align="center">I ❤️ solve great challenges using tech. <br><br> Olá, eu sou Kezio, um desenvolvedor Baked com foco em C#, ASP.NET, Entity Framework, LINQ e Lambda. Minha paixão reside em criar soluções eficazes e intuitivas.</p>&nbsp;
