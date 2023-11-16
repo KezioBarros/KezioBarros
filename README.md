@@ -8,10 +8,6 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KezioBarros&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
 </div>
 
-![KezioBarros GitHub stats](https://github-readme-stats.vercel.app/api?username=KezioBarros&show_icons=true&theme=radical)
-[![KezioBarros](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/anuraghazra/github-readme-stats) 
-
-
  &nbsp;
  &nbsp;
 
