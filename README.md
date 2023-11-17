@@ -57,3 +57,5 @@
   
   
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
+
+![Snake animation](https://github.com/AllanDutra/allandutra/blob/output/github-contribution-grid-snake.svg)
