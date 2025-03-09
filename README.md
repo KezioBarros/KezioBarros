@@ -19,9 +19,9 @@
 
 #### Main Stack:
 
-![Csharp](https://icongr.am/devicon/csharp-original.svg?size=30&color=currentColor)&nbsp;
-![.NET](https://devicon-website.vercel.app/api/dotnetcore/original.svg?size=30)&nbsp;
-![SQLServer](https://devicon-website.vercel.app/api/microsoftsqlserver/plain.svg?size=30&color=%23EE2424)&nbsp;
+![Csharp](https://icongr.am/devicon/csharp-original.svg?size=50&color=currentColor)&nbsp;
+![.NET](https://devicon-website.vercel.app/api/dotnetcore/original.svg?size=50)&nbsp;
+![SQLServer](https://devicon-website.vercel.app/api/microsoftsqlserver/plain.svg?size=50&color=%23EE2424)&nbsp;
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
