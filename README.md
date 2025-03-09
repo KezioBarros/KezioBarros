@@ -34,7 +34,7 @@
     alt="Microsoft SQL Server" 
     title="Microsoft SQL Server" 
     width="30px" 
-    style="padding-right: 10px;"/>
+    style="padding-right: 10px;"/>&nbsp;
 
 
 #### Workstation Tools:
