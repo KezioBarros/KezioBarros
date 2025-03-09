@@ -29,12 +29,7 @@
 
 ![HTML](https://icongr.am/devicon/html5-original.svg?size=30&color=currentColor)&nbsp;
 ![CSS](https://icongr.am/devicon/css3-original.svg?size=30&color=currentColor)&nbsp;
-![PostGreSQL]<img 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" 
-    alt="Microsoft SQL Server" 
-    title="Microsoft SQL Server" 
-    width="30px" 
-    style="padding-right: 10px;"/>&nbsp;
+![PostGreSQL](https://devicon-website.vercel.app/api/microsoftsqlserver/plain.svg?size=30&color=currentColor)&nbsp;
 
 
 #### Workstation Tools:
