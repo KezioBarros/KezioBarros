@@ -21,7 +21,7 @@
 
 ![Csharp](https://icongr.am/devicon/csharp-original.svg?size=30&color=currentColor)&nbsp;
 ![.NET](https://devicon-website.vercel.app/api/dotnetcore/original.svg?size=30)&nbsp;
-![SQLServer](https://devicon-website.vercel.app/api/microsoftsqlserver/plain.svg?size=30&color=currentColor)&nbsp;
+![SQLServer](https://devicon-website.vercel.app/api/microsoftsqlserver/plain.svg?size=30&color=%23EE2424)&nbsp;
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
@@ -53,6 +53,11 @@
 </a>
 <a href = "mailto:contato.keziopb@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/kezio-pereira-barros-08018728b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
+
+ <a href="" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+</a>
+<a href = "mailto:contato.keziopb@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/kezio-pereira-barros-08018728b/" target="_blank"><img src="https://icongr.am/devicon/linkedin-original.svg?size=30&color=currentColor"  target="_blank"></a> 
 </div>&nbsp;&nbsp;
  
 
