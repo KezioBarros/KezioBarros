@@ -19,7 +19,7 @@
 
 #### Main Stack:
 
-![Csharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)&nbsp;
+![Csharp](https://icongr.am/devicon/csharp-original.svg?size=30&color=currentColor)&nbsp;
 ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)&nbsp;
 
 
@@ -27,9 +27,9 @@
 
 #### Secondary Stack:
 
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
+![HTML](https://icongr.am/devicon/html5-original.svg?size=30&color=currentColor)&nbsp;
+![CSS](https://icongr.am/devicon/css3-original.svg?size=30&color=currentColor)&nbsp;
+![PostGreSQL](https://icongr.am/devicon/postgresql-original.svg?size=30&color=currentColor)&nbsp;
 
 
 #### Workstation Tools:
