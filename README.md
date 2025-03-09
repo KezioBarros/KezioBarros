@@ -19,7 +19,7 @@
 
 #### Main Stack:
 
-![Csharp](https://icongr.am/devicon/csharp-original.svg?size=50&color=currentColor&alt=C#)&nbsp;
+![Csharp](https://icongr.am/devicon/csharp-original.svg?size=50&color=currentColor&alt="C#")&nbsp;
 ![.NET](https://devicon-website.vercel.app/api/dotnetcore/original.svg?size=50)&nbsp;
 ![SQLServer](https://devicon-website.vercel.app/api/microsoftsqlserver/plain.svg?size=50&color=%23EE2424)&nbsp;
 
