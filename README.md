@@ -34,8 +34,8 @@
 
 #### Workstation Tools:
 
-![VScode](https://icongr.am/devicon/visualstudio-plain-wordmark.svg?size=80&color=currentColor)&nbsp;
 ![VScode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)&nbsp;
+![VScode](https://icongr.am/devicon/visualstudio-plain-wordmark.svg?size=80&color=currentColor)&nbsp;
 ![Git](https://icongr.am/devicon/git-original.svg?size=30&color=currentColor)&nbsp;
 ![GitHub](https://icongr.am/devicon/github-original.svg?size=30&color=currentColor)&nbsp;
 ![GitLab](https://icongr.am/devicon/gitlab-original.svg?size=30&color=currentColor)&nbsp;
