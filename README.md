@@ -31,7 +31,7 @@
 ![CSS](https://icongr.am/devicon/css3-original.svg?size=30&color=currentColor)&nbsp;
 ![JavaScript](https://devicon-website.vercel.app/api/javascript/original.svg?size=30)&nbsp;
 ![PostGreSQL](https://icongr.am/devicon/postgresql-original.svg?size=30&color=currentColor)&nbsp;
-![PHP](https://devicon-website.vercel.app/api/php/original.svg?size=30)&nbsp;
+![PHP](https://devicon-website.vercel.app/api/php/original.svg?size=45)&nbsp;
 
 
 #### Workstation Tools:
