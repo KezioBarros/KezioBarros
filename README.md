@@ -20,8 +20,6 @@
 #### Main Stack:
 
 ![Csharp](https://icongr.am/devicon/csharp-original.svg?size=30&color=currentColor)&nbsp;
-![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)&nbsp;
-
 ![.NET](https://devicon-website.vercel.app/api/dotnetcore/original.svg?size=30)&nbsp;
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
