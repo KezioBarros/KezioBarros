@@ -53,12 +53,6 @@
 </a>
 <a href = "mailto:contato.keziopb@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/kezio-pereira-barros-08018728b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
-
-<a href="" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-</a>
-<a href = "mailto:contato.keziopb@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/kezio-pereira-barros-08018728b/" target="_blank"><img src=https://icongr.am/devicon/linkedin-original.svg?size=30&color=currentColor  target="_blank"></a> 
-
 </div>&nbsp;&nbsp;
  
 
