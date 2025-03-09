@@ -51,9 +51,9 @@
 ## Contacts:
 
 <div> 
-<a href = "mailto:contato.keziopb@gmail.com"> <img src="https://skillicons.dev/icons?i=gmail" target="_blank"></a>
-<a href="https://www.linkedin.com/in/kezio-pereira-barros-08018728b/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin"  target="_blank"></a> 
 <a href="" target="_blank"><img src="https://skillicons.dev/icons?i=instagram"></a>
+<a href="https://www.linkedin.com/in/kezio-pereira-barros-08018728b/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin"  target="_blank"></a> 
+<a href = "mailto:contato.keziopb@gmail.com"> <img src="https://skillicons.dev/icons?i=gmail" target="_blank"></a>
 </div>&nbsp;&nbsp;
  
 
