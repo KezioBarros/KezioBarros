@@ -21,6 +21,7 @@
 
 ![Csharp](https://icongr.am/devicon/csharp-original.svg?size=30&color=currentColor)&nbsp;
 ![.NET](https://devicon-website.vercel.app/api/dotnetcore/original.svg?size=30)&nbsp;
+![SQLServer](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg?size=30)&nbsp;
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
@@ -33,8 +34,8 @@
 
 #### Workstation Tools:
 
-![VScode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)&nbsp;
 ![VScode](https://icongr.am/devicon/visualstudio-plain.svg?size=30&color=currentColor)&nbsp;
+![VScode](https://devicon-website.vercel.app/api/vscode/original.svg?size=30)&nbsp;
 ![Git](https://icongr.am/devicon/git-original.svg?size=30&color=currentColor)&nbsp;
 ![GitHub](https://icongr.am/devicon/github-original.svg?size=30&color=currentColor)&nbsp;
 ![GitLab](https://icongr.am/devicon/gitlab-original.svg?size=30&color=currentColor)&nbsp;
