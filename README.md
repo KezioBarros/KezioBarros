@@ -21,8 +21,8 @@
 
 ![Csharp](https://icongr.am/devicon/csharp-original.svg?size=50&color=currentColor&alt="C#")&nbsp;
 ![.NET](https://devicon-website.vercel.app/api/dotnetcore/original.svg?size=50)&nbsp;
-![SQLServer](https://devicon-website.vercel.app/api/microsoftsqlserver/plain.svg?size=50&color=%23EE2424)&nbsp;
 ![PostGreSQL](https://icongr.am/devicon/postgresql-original.svg?size=50&color=currentColor)&nbsp;
+![SQLServer](https://devicon-website.vercel.app/api/microsoftsqlserver/plain.svg?size=50&color=%23EE2424)&nbsp;
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
@@ -32,6 +32,7 @@
 ![CSS](https://icongr.am/devicon/css3-original.svg?size=30&color=currentColor)&nbsp;
 ![JavaScript](https://devicon-website.vercel.app/api/javascript/original.svg?size=30)&nbsp;
 ![PHP](https://devicon-website.vercel.app/api/php/original.svg?size=40)&nbsp;
+![REACT](https://icongr.am/devicon/react-original.svg?size=30&color=currentColor)&nbsp;
 
 
 #### Workstation Tools:
