@@ -31,9 +31,8 @@
 ![HTML](https://icongr.am/devicon/html5-original.svg?size=30&color=currentColor)&nbsp;
 ![CSS](https://icongr.am/devicon/css3-original.svg?size=30&color=currentColor)&nbsp;
 ![JavaScript](https://devicon-website.vercel.app/api/javascript/original.svg?size=30)&nbsp;
-![PHP](https://devicon-website.vercel.app/api/php/original.svg?size=40)&nbsp;
 ![REACT](https://icongr.am/devicon/react-original.svg?size=30&color=currentColor)&nbsp;
-
+![PHP](https://devicon-website.vercel.app/api/php/original.svg?size=40)&nbsp;
 
 #### Workstation Tools:
 
