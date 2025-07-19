@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Kezio+Pereira+Barros;I'm+21+years+old;I+am+from+Araguaína,+TO;I+study+analysis+and+systems+development+at+IFTO;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 
-<p align="center">I ❤️ solve great challenges using tech. <br><br> Olá, eu sou Kezio, um desenvolvedor Back end com foco em C#, ASP.NET, Entity Framework, LINQ e Lambda. Minha paixão reside em criar soluções eficazes e intuitivas.</p>&nbsp;
+<p align="center">I ❤️ solve great challenges using tech. <br><br> Olá, eu sou Kezio, desenvolvedor Back-end com foco em C#, ASP.NET e criação de APIs RESTful. Minha paixão reside em criar soluções eficazes e intuitivas.</p>&nbsp;
 
 
 <div align="center">  
